@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bakgrounds">
+        <item>@drawable/selling</item>
+        <item>@drawable/livingroom</item>
+        <item>@drawable/bathroom</item>
+        <item>@drawable/shower</item>
+        <item>@drawable/kitchen</item>
+        <item>@drawable/window</item>
+        <item>@drawable/window2</item>
+        <item>@drawable/table</item>
+    </array>
+    <array name="persons">
+        <item>@drawable/time0621</item>
+        <item>@drawable/time0621</item>
+        <item>@drawable/time0621</item>
+        <item>@drawable/teapot</item>
+        <item>@drawable/papers</item>
+        <item>@drawable/papers</item>
+        <item>@drawable/time0621</item>
+        <item>@drawable/call</item>
+        <item>@drawable/phone</item>
+    </array>
+    <array name="dialogs">
+        <item>@drawable/dialog</item>
+    </array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dialog_fragment"
+    android:id="@+id/dialog_fragment"
+    android:orientation="vertical"
+    android:background="@drawable/dialog"
+    android:layout_alignParentBottom="true">
+    <TextView
+        android:id="@+id/text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        android:text="Name"/>
+    <TextView
+        android:id="@+id/dialog_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textColor="@color/black"
+        android:layout_weight="1">
+    </TextView>
+
+</LinearLayout>
